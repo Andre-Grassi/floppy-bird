@@ -23,7 +23,7 @@ public class WarpScript : MonoBehaviour
             // Randomly sets the height of the tube
             wholeTube.transform.position = new Vector2(
                 wholeTube.transform.position.x,
-                Random.Range(-1f, 4.75f)
+                Random.Range(-0.7f, 4.5f)
             );
         }
     }
