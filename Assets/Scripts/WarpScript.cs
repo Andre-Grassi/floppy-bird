@@ -12,7 +12,7 @@ public class WarpScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.tag == "Tube")
+        if (other.CompareTag("Tube"))
         {
             // Get the parent Tube1 or Tube2
             Transform wholeTube = other.transform.parent.transform.parent;

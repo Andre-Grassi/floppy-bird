@@ -1,3 +1,5 @@
 Ideia: da pra fazer o jogo virar multiplayer daí um jogador controla os 
 cano, aí até certo ponto ele consegue mudar a altura do cano e dps ele 
 já começa a controlar o próximo cano e assim em diante...
+
+Espaçar um pouco mais os canos.
